@@ -1,5 +1,14 @@
 ---
 content_type: page
+description: 'Continuum Electromechanics Textbook Components: Front-End Matter, Chapter
+  1: Introduction to Continuum Electromechanics, Chapter 2: Electrodynamic Laws, Approximations
+  and Relations, Chapter 3: Electromagnetic Forces, Force Densities and Stress Tensors,
+  Chapter 4: Electromechanical Kinematics: Energy-Conservation Models and Processes,
+  Chapter 5: Charge Migration, Convection and Relaxation, Chapter 6: Magnetic Diffusion
+  and Induction Interactions, Chapter 7: Laws, Approximations and Relations of Fluid
+  Mechanics, Chapter 8: Statics and Dynamics of Systems Having a Static Equilibrium,
+  Chapter 9: Electromechanical Flows, Chapter 10: Electromechanics with Thermal and
+  Molecular Diffusion and Chapter 11: Streaming Interactions.'
 learning_resource_types:
 - Online Textbooks
 ocw_type: SupplementalResourceSection
